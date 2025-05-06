@@ -25,7 +25,7 @@ I’m now sharpening my skills in **backend development** and **cloud technologi
 
 💡 **Current Focus**: Leveling up my cloud (AWS/GCP) and distributed systems knowledge while exploring real-world backend architectures.  
 
-📫 **Reach out**: [Your email / LinkedIn] – I’d love to discuss internships, entry-level opportunities, or collaborative learning projects!
+📫 **Reach out**: kerimabdelhamidofficial13@gmail.com | https://www.linkedin.com/in/karim-abdelkhamid-18b99328a/ – I’d love to discuss entry-level opportunities, or collaborative learning projects!
 
 <!--
 **KomodoHype13/KomodoHype13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
