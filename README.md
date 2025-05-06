@@ -1,31 +1,16 @@
-# Hi there! 👋 I'm Karim!
+# 👋 Hi! I'm Karim!
 
-**Aspiring Software Engineer** with a passion for **game development** and **data-driven solutions**. Eager to grow my skills in backend systems and collaborative projects while contributing to meaningful technical challenges.
+**Junior Software Engineer** blending game development passion with backend/data skills. Proficient in **C#** (Unity), **Python**, and SQL, currently expanding into cloud (AWS/GCP) and distributed systems.  
 
-### 🌱 Technical Toolkit  
-- **Proficient**: C#, Python, Unity, SQL (PostgreSQL, MySQL)  
-- **Learning**: AWS/GCP fundamentals, Docker, ETL workflows  
-- **Web & Tools**: HTML/CSS, .NET Framework, Git/GitHub  
-- **Data & Scripting**: NumPy, Lua, Microsoft SQL Server  
-- **Game Dev**: Gameplay mechanics, modding, multiplayer prototyping  
+**Key Skills**  
+✓ **Languages**: C#, Python, Lua, SQL  
+✓ **Game Dev**: Unity scripting, modding, multiplayer prototypes  
+✓ **Data/Backend**: ETL basics, PostgreSQL/MySQL, .NET Framework  
+✓ **Tools**: Git, Docker, NumPy, HTML/CSS  
 
-### 🚀 Journey So Far  
-My coding journey began modding childhood games, where I discovered the thrill of merging creativity with logic. During my Computer Science degree, I:  
-- Built **Unity prototypes** with C# scripting.  
-- Designed **Python data pipelines** for academic projects.  
-- Collaborated with teams on small-scale game mechanics and database-driven web apps.  
+🔍 Seeking junior roles in **game development** or **backend engineering** – especially teams that foster growth through mentorship and hands-on learning.  
 
-I’m now sharpening my skills in **backend development** and **cloud technologies**, with hands-on experiments like:  
-- Optimizing SQL queries for analytics dashboards.  
-- Containerizing simple services with Docker.  
-- Contributing to open-source game mods.  
-
-### 📬 Let’s Connect!  
-🔍 **Seeking**: Junior roles in software engineering, game development, or data engineering – especially teams that value mentorship and growth.  
-
-💡 **Current Focus**: Leveling up my cloud (AWS/GCP) and distributed systems knowledge while exploring real-world backend architectures.  
-
-📫 **Reach out**: kerimabdelhamidofficial13@gmail.com | https://www.linkedin.com/in/karim-abdelkhamid-18b99328a/ – I’d love to discuss entry-level opportunities, or collaborative learning projects!
+📫 **Let’s chat!** kerimabdelhamidofficial13@gmail.com | https://www.linkedin.com/in/karim-abdelkhamid-18b99328a/
 
 <!--
 **KomodoHype13/KomodoHype13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
