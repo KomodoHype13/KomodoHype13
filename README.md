@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Karim!
 
-**Junior Software Engineer** blending game development passion with backend/data skills. Proficient in **C#** (Unity), **Python**, and SQL, currently expanding into cloud (AWS/GCP) and distributed systems.  
+**Junior Software Engineer** blending game development passion with backend/data skills. Proficient in **C#** (Unity), **Python**, and SQL, currently expanding into cloud (AWS/GCP) and distributed systems. Mostly on GitLab
 
 **Key Skills**  
 ✓ **Languages**: C#, Python, Lua, SQL  
